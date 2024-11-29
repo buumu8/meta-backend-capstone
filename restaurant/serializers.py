@@ -1,6 +1,6 @@
 from django.contrib.auth.models import User
 from rest_framework import serializers
-from .models import Booking, Menu, MenuItem
+from .models import Booking, Menu
 
 
 # written code"username", "email", "groups"]
