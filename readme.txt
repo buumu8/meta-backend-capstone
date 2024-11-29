@@ -1,0 +1,2 @@
+/api/reservations/
+/api/book/
